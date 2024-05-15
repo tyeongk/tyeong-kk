@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm taeyeong kang</h1>
-<h3 align="center">info & comm enginnering sophomore.</h3>
 
+##Introdution
+
+Hi, I'm taeyeong kang.
+
+#Career
+
+Yeongnam University, info & comm engineering major.
   
 
 <h3 align="left">Connect with me:</h3>
