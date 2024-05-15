@@ -3,7 +3,7 @@
 
 Hi, I'm taeyeong kang.
 
-#Career
+##Career
 
 Yeongnam University, info & comm engineering major.
   
