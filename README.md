@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm taeyeong-kang</h1>
-<h3 align="center">A sophomore student major of info & comm engineering.</h3>
+##Introdution
+Hi, i'm taeyeong-kang.
+I'm majoring info & comm engineering.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
