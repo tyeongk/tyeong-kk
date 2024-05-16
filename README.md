@@ -1,5 +1,5 @@
 
-##Introdution\n
+#Introdution
 Hi, i'm taeyeong-kang.
 I'm majoring info & comm engineering.
 
